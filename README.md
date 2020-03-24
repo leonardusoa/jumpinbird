@@ -15,8 +15,10 @@
 Drag the circle and adjust the angle to launch the bird
 
 #### Made By
-Leonardus Asaba </br>
-<a href="https://github.com/rachaelawuy" target="_blank" rel="noopener noreferrer">Rachael Awuy</a>
+<ul>
+  <li>Leonardus Asaba</li>
+  <li><a href="https://github.com/rachaelawuy" target="_blank" rel="noopener noreferrer">Rachael Awuy</a></li>
+</ul>
 
 #### Tools Used
 <ul>
